@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Whack A Mole</string>
+    <string name="title_activity_start">Whack A Mole</string>
+    <string name="title_activity_end">EndActivity</string>
+</resources>
